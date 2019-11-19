@@ -43,7 +43,7 @@ h1 {
 }
 
 #narwhal-eye {
-  animation: opacity .5s 1s linear forwards
+  animation: opacity .5s 1s linear forwards;
   opacity: 0;
 }
 
